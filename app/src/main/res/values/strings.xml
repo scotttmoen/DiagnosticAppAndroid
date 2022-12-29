@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DiagnosticApp</string>
+    <string name="action_button">Start Diagnosis</string>
+    <string name="take_picture">Take picture</string>
+    <string name="select_neg_controls">Select\n negative controls</string>
+    <string name="select_pos_controls">Select\n positive controls</string>
+    <string name="start_analysis">Start\n analysis</string>
+    <string name="select_samples">Select\n samples</string>
+    <string name="area_for_analysis_image">area_for_analysis_image</string>
+    <string name="here" />
 </resources>
